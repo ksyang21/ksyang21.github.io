@@ -1,14 +1,8 @@
-body{
-	background: url("https://ksyang21.github.io/img/bg-img.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.introduction {
-	text-align: center;
-}
-
 .big-title {
-	border-width: 30%;
-	border-bottom: 1px solid #7f7f7f;
+	border: 1px solid #bfbfbf
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
