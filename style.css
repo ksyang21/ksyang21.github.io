@@ -1,6 +1,9 @@
 body{
-	height: 100%;
+	background-image: url("img/bg-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 .introduction {
 	text-align: center;
 	width: 100%;
