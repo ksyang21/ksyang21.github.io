@@ -1,3 +1,9 @@
+body {
+	background: url("https://ksyang21.github.io/img/bg-img.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 .big-title {
 	border: 1px solid #bfbfbf
 }
